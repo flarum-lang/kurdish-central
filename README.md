@@ -19,7 +19,7 @@ This language pack contains Kurdish (Central) translations for Flarum (compatibl
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/kurdish-central:dev-master
+composer require "flarum-lang/kurdish-central:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
