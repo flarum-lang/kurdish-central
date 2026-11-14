@@ -92,4 +92,4 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/ku.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.11.23/src/locale/ku.js).
